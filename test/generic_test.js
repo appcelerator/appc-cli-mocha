@@ -28,7 +28,7 @@ core.newTest('', {
 			}
 		}
 	],
-	endpoints_include: [require('./endpoints/example.js')]
+	endpoints_include: [ require('./endpoints/example.js') ]
 }, function (err, plugin) {
 	var appc = this.appc,
 		tmpDir = this.tmpDir,
