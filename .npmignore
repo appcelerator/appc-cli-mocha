@@ -1,0 +1,11 @@
+tmp
+coverage
+test
+.travis.yml
+.eslintrc
+.eslintignore
+.nycrc
+.nyc_output
+Jenkinsfile
+junit_report.xml
+retirejs.output.json
