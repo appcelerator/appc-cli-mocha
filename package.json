@@ -1,6 +1,6 @@
 {
   "name": "appc-cli-mocha",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "simple, flexible, fun mocha framework extension with server response mock-ing",
   "repository": {
     "type": "git",
